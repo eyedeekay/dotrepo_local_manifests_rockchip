@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<project path="kernel/rockchip/rk3066" name="eyedeekay/linux-rockchip-kernel" revision="release-4.4" />
+
+<project path="device/rockchip/mk808b" name="eyedeekay/android_device_rockchip_mk808b" revision="master" />
+
+<project path="device/rockchip/rk3066-common" name="eyedeekay/android_device_rockchip_rk3066-common" revision="master" />
+
+<project path="vendor/rockchip/rk3066-common" name="eyedeekay/android_vendor_rockchip_rk3066-common" revision="master" />
+
+<!--<project path="vendor/rockchip/mk808b" name="eyedeekay/android_vendor_rockchip_mk080b" revision="master" />-->
+
+</manifest>
+
